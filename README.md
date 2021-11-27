@@ -5,26 +5,10 @@
 - Security
 - Cryptology
 - Quantum computing, algorithms & cryptology
-- Algorithms & datastructures
+- Algorithms & data structures
 - Neural networks
 - Neuroscience + psychology + computer science
 - Mathematics
-
-## Programming languages
-
-- Java
-  - learned to program with
-- Python
-  - used most
-- SQL
-  - actually used pretty much because:
-    - in many courses
-    - we have one project with my good friend where we use it a lot
-- JavaScript
-  - used a lot, for example, in the Fullstack course
-- R
-  - did some courses with
-- C (started learning)
 
 ## Some projects over the years
 
@@ -36,3 +20,22 @@ When I had the Data Structures Lab, I made a [cipher cracker](https://github.com
 
 My first project is a [flyfishing game](https://github.com/matiastamsi/ot-harjoitustyo) (flyfishing is my huge passion). It was right after I learned to code as a project of one course, so you have been warned! At least I have made progress from that!
 
+## Programming languages
+
+- Java
+  - learned to program with
+- Python
+  - used the most
+- SQL
+  - actually used pretty much because:
+    - it is used in many courses
+    - we have one project with my good friend where we use it a lot
+- JavaScript
+  - used a lot, for example, in the [Fullstack course](https://github.com/matiastamsi/fullstack)
+- R
+  - did some courses with
+- C (started learning)
+
+## Operating systems
+- **LINUX**
+- Windows
