@@ -12,7 +12,7 @@
 
 ## Some projects over the years
 
-When I participated in Software Development project, which is a project of University of Helsinki and is part of bachelor's studies, I got myself into a fascinating project! I worked over 200 hours with awesome co-workers and client while developing an API to bechmark quantum algoritms. Here is [the link to the organization](https://github.com/quantum-ohtu).
+When I participated in Software Development project, which is a project of University of Helsinki and is part of bachelor's studies, I got myself into a fascinating project! I worked over 200 hours with awesome co-workers and client while developing an API to bechmark quantum algoritms. Here is the [link to the organization](https://github.com/quantum-ohtu).
 
 I had been interested about quantum computing before the previously mentioned project, but after it I was sure that I want to do my bachelor's thesis about something quantum computing related. Well, the decision wasn't really hard because I really really ... really like cryptology, so thesis is about quantum cryptology! Not the easiest subject for bachelor's thesis. In fact, the quantum cryptology isn't settled term. Instead, quantum cryptography and cryptanalysis are still talked separetly. However, I find it reasonable to talk about quantum cryptology. I will publish my thesis when it is available for it! Disclaimer: It is in finnish because of the rules... I tell you that it would have been much easier to write in English!
 
