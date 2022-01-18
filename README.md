@@ -14,7 +14,7 @@
 
 When I participated in Software Development project, which is a project of University of Helsinki and is part of bachelor's studies, I got myself into a fascinating project! I worked over 200 hours with the awesome co-workers and client while developing an API to benchmark quantum algoritms. Here is the [link to the organization](https://github.com/quantum-ohtu).
 
-I had been interested about quantum computing before the previously mentioned project, but after it I was sure that I want to do my bachelor's thesis about something quantum computing related. Well, the decision wasn't really hard because I really really ... really like cryptology, so thesis is about quantum cryptology! Not the easiest subject for bachelor's thesis. In fact, the quantum cryptology isn't settled term. Instead, quantum cryptography and cryptanalysis are still talked separetly. However, I find it reasonable to talk about quantum cryptology. I will publish my thesis when it is available for it! Disclaimer: It is in finnish because of the rules... I tell you that it would have been much easier to write in English!
+I had been interested about quantum computing before the previously mentioned project, but after it I was sure that I want to do my bachelor's thesis about something quantum computing related. Well, the decision wasn't really hard because I really really ... really like cryptology, so thesis is about quantum cryptology! Not the easiest subject for bachelor's thesis. In fact, the quantum cryptology isn't settled term. Instead, quantum cryptography and cryptanalysis are still talked separetly. However, I find it reasonable to talk about quantum cryptology. I will publish my thesis when it is available for it! Disclaimer: It is in finnish because of the rules... it would have been much easier to write in English!
 
 When I had the Data Structures Lab, I made a [cipher cracker](https://github.com/matiastamsi/tiralabra) that uses frequency analysis. We couldn't use ready data structures or algoritms in the main fuctionality (some exceptions were allowed regarding reading files etc.)
 
@@ -27,11 +27,11 @@ My first project is a [flyfishing game](https://github.com/matiastamsi/ot-harjoi
 - Java
   - learned to program with
 - Python
-  - used the most
+  - used mostly recently
 - SQL
   - actually used pretty much because:
     - it is used in many courses
-    - we have one project with my good friend where we use it a lot
+    - we have one project with my friend where we use it a lot
 - JavaScript
   - used a lot, for example, in the [Fullstack course](https://github.com/matiastamsi/fullstack)
 - R
