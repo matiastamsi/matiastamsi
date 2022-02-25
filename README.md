@@ -21,6 +21,8 @@ My first project is a [flyfishing game](https://github.com/matiastamsi/ot-harjoi
 
 ## Programming languages
 
+*The order represents roughly my skills with the following:*
+
 - Java
 - Python
 - JavaScript
