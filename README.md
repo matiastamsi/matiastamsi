@@ -1,7 +1,14 @@
 # Welcome
 
+## About
+
+Bachelor's degree in Computer Science
+ - University of Helsinki
+ - Minor: Mathematics
+ - Thesis: _Kvanttikryptologia_ ("_Quantum cryptology_")
+
 ## Top interests
-- Security
+- Cyber security
 - Cryptology
 - Quantum computing, algorithms & cryptology
 - Algorithms & data structures
@@ -11,22 +18,23 @@
 
 ## Some projects over the years
 
-When I participated in Software Development project, which is a project of University of Helsinki and is part of bachelor's studies, I got myself into a fascinating project! I worked over 200 hours with the awesome co-workers and client while developing an API to benchmark quantum algoritms. Here is the [link to the organization](https://github.com/quantum-ohtu).
+When I participated in a_Software Development_ course (which was a part of my bachelor's studies), I got myself into a fascinating project! I worked over 230 hours while developing an API to benchmark quantum algoritms. Here is the [link to the organization](https://github.com/quantum-ohtu).
 
-When I had the Data Structures Lab, I made a [cipher cracker](https://github.com/matiastamsi/tiralabra) that uses frequency analysis. We couldn't use ready data structures or algoritms in the main fuctionality (some exceptions were allowed regarding reading files etc.)
+When I had a course called _Data Structures Lab_, I made a [cipher cracker](https://github.com/matiastamsi/tiralabra) that uses frequency analysis. We couldn't use any ready data structures or algoritms in the main fuctionality.
 
 [Fisher's best friend](https://github.com/matiastamsi/KalastajanKaveri) was my second project and it was part of Database Lab which is part of my studies.
 
-My first project is a [flyfishing game](https://github.com/matiastamsi/ot-harjoitustyo) (flyfishing is my huge passion). It was right after I learned to code as a project of one course, so you have been warned! At least I have made progress from that!
+My first project was a [flyfishing game](https://github.com/matiastamsi/ot-harjoitustyo) (flyfishing is my huge passion). It was right after when I learned to program, so you have been warned! At least I have made progress from that!
 
 ## Programming languages
 
-*The order represents roughly my skills with the following:*
+*The order represents roughly my skills*
 
 - Java
 - Python
+- Matlab
 - JavaScript
 - C++
 - SQL
-- R
 - C
+- R
