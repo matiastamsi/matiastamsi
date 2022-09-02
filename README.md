@@ -1,9 +1,9 @@
 # Welcome
 
-## About
+## My studies
 
-Bachelor's degree in Computer Science
- - University of Helsinki
+Bachelor's degree in Computer Science :heavy_check_mark:
+ - University of Helsinki, Finland
  - Minor: Mathematics
  - Thesis: _Kvanttikryptologia_ ("_Quantum cryptology_")
 
