@@ -22,7 +22,7 @@ When I participated in a_Software Development_ course (which was a part of my ba
 
 When I had a course called _Data Structures Lab_, I made a [cipher cracker](https://github.com/matiastamsi/tiralabra) that uses frequency analysis. We couldn't use any ready data structures or algoritms in the main fuctionality.
 
-[Fisher's best friend](https://github.com/matiastamsi/KalastajanKaveri) was my second project and it was part of Database Lab which is part of my studies.
+[Fisher's best friend](https://github.com/matiastamsi/KalastajanKaveri) was my second project and it was a part of a course called _Database Lab_.
 
 My first project was a [flyfishing game](https://github.com/matiastamsi/ot-harjoitustyo) (flyfishing is my huge passion). It was right after when I learned to program, so you have been warned! At least I have made progress from that!
 
