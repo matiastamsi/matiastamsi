@@ -2,7 +2,12 @@
 
 ## My studies
 
-Bachelor's degree in Computer Science :heavy_check_mark:
+### In progress
+Master's degree / Computer Science
+ - University of Helsinki, Finland
+
+### Done :heavy_check_mark:
+Bachelor's degree / Computer Science
  - University of Helsinki, Finland
  - Minor: Mathematics
  - Thesis: _Kvanttikryptologia_ ("_Quantum cryptology_")
