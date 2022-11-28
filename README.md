@@ -5,6 +5,7 @@
 ### In progress
 Master's degree / Computer Science
  - University of Helsinki, Finland
+ - Study track: Algorithms
 
 ### Done :heavy_check_mark:
 Bachelor's degree / Computer Science
@@ -13,12 +14,12 @@ Bachelor's degree / Computer Science
  - Thesis: _Kvanttikryptologia_ ("_Quantum cryptology_")
 
 ## Top interests
+- ML, AI, NN
 - Cyber security
 - Cryptology
 - Quantum computing, algorithms & cryptology
 - Algorithms & data structures
-- Neural networks
-- Neuroscience + psychology + computer science
+- Psychology
 - Mathematics
 
 ## Some projects over the years
