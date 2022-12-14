@@ -36,11 +36,11 @@ My first project was a [flyfishing game](https://github.com/matiastamsi/ot-harjo
 
 *The order represents roughly my skills*
 
-- Java
 - Python
 - Matlab
+- Java
 - JavaScript
-- C++
 - SQL
+- C++
 - C
 - R
