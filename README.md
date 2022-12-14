@@ -11,7 +11,7 @@ Master's degree / Computer Science
 Bachelor's degree / Computer Science
  - University of Helsinki, Finland
  - Minor: Mathematics
- - Thesis: _Kvanttikryptologia_ ("_Quantum cryptology_")
+ - Thesis: [_Kvanttikryptologia_ ("_Quantum cryptology_")](https://matiastamsi.github.io/kandi/Matias_Tamsi_Kvanttikryptologia.pdf)
 
 ## Top interests
 - ML, AI, NN
