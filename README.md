@@ -26,7 +26,7 @@ Bachelor's degree / Computer Science
 
 When I was completing my bachelor's studies, I got myself into a fascinating project! I worked over 230 hours while developing an API to benchmark quantum algoritms. Here is the [link to the organization](https://github.com/quantum-ohtu).
 
-When I had a course called _Data Structures Lab_, I made a [cipher cracker](https://github.com/matiastamsi/tiralabra) that uses frequency analysis. We couldn't use any ready data structures or algoritms in the main fuctionality.
+When I had a course called _Data Structures Lab_, I made a [cipher cracker](https://github.com/matiastamsi/tiralabra) that uses frequency analysis. We couldn't use any ready data structures or algoritms in the main functionality.
 
 [Fisher's best friend](https://github.com/matiastamsi/KalastajanKaveri) was my second project and it was a part of a course called _Database Lab_.
 
