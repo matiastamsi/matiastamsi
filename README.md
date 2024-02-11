@@ -14,13 +14,12 @@ Bachelor's degree / Computer Science
  - Thesis: [_Kvanttikryptologia_ ("_Quantum cryptology_")](https://matiastamsi.github.io/kandi/Matias_Tamsi_Kvanttikryptologia.pdf)
 
 ## Top interests
-- ML, AI, NN
-- Cyber security
-- Cryptology
+
+- Underwater Acoustics
+- Oceanography
+- Digital Signal Processing
+- ML & AI
 - Quantum computing, algorithms & cryptology
-- Algorithms & data structures
-- Psychology
-- Mathematics
 
 ## Some projects over the years
 
